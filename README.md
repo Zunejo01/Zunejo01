@@ -54,7 +54,7 @@ real-time booking, tracking, and notifications, streamlining service requests an
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
--Implemented a web-based image-processing disease detection model using OpenCV, TensorFlow, and Keras
+- Implemented a web-based image-processing disease detection model using OpenCV, TensorFlow, and Keras
 with a CNN architecture, integrating HTML, CSS, JavaScript, and Python to assist farmers in early crop
 infection identification.
 
