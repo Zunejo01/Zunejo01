@@ -10,7 +10,7 @@
 
 ## 💼 Work Experience
 - **Incoming Software Engineer** - Tata Consultancy Services
-- 
+  
 - **Artificial Intelligence Intern** - Stealth Startup via Soven Developer (Mar 2024 - May 2024)
   - Developed an NLP-based chatbot with 95% response accuracy
   - Optimized API integration, reducing response time by 35%
