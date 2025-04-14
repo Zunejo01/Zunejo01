@@ -28,14 +28,16 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- Machine learning approach to mental well-being evaluation with 88% accuracy
+- Leveraged machine learning algorithms to surpass traditional questionnaires, offering a holistic and adaptive
+evaluation of individuals’ mental well-being with an accuracy of up to 88%.
 
 ### 📊 Twitter Sentiment Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154f5b?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-- Analyzed 5,000+ Russia-Ukraine war tweets for sentiment trends and opinion patterns
+- Developed an NLP model to analyze 5,000+ Russia-Ukraine war-related tweets, categorizing sentiment trends
+and identifying patterns in public opinion dynamics.
 
 ### 🚗 Vehicle Service Management System
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -43,7 +45,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- Full-stack system for real-time booking, tracking, and service management
+- Built a full-stack vehicle service management system using HTML, CSS, JavaScript, PHP, and SQL, enabling
+real-time booking, tracking, and notifications, streamlining service requests and improving user accessibility.
 
 ### 🌱 Crop Leaf Disease Detection
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -51,7 +54,9 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-- Web-based CNN model for early crop infection identification
+- Implemented a web-based image-processing disease detection model using OpenCV, TensorFlow, and Keras
+with a CNN architecture, integrating HTML, CSS, JavaScript, and Python to assist farmers in early crop
+infection identification.
 
 ## 🛠️ Skills
 
