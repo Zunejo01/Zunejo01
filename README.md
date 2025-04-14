@@ -81,6 +81,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Unix](https://img.shields.io/badge/Unix-FCC624?style=flat&logo=linux&logoColor=black)
 
+<!--
 ## 🏆 Awards & Achievements
 - **Certified in Entrepreneurship and Business Strategy** - Recognized as a Potential Real Venture Leader by Wadhwani Group
 - **Published Research Author** - "Migration and the Dilemma of Belonging" in IJELTS Journal
@@ -92,6 +93,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+-->
 
 ## 🌐 Connect With Me
 <div align="center">
