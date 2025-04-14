@@ -12,12 +12,12 @@
 - **Incoming Software Engineer** - Tata Consultancy Services
   
 - **Artificial Intelligence Intern** - Stealth Startup via Soven Developer (Mar 2024 - May 2024)
-  - Developed an NLP-based chatbot with 95% response accuracy
-  - Optimized API integration, reducing response time by 35%
+  - Developed an NLP-based chatbot that achieved 95% response accuracy and improved user engagement
+  - Optimized API integration, reducing response time by 35%, enhancing efficiency
 
 - **Data Analyst Intern** - Excelerate (Jan 2024 - Feb 2024)
-  - Conducted EDA on 20,000+ data points for business decisions
-  - Built interactive visualizations and dashboards, reducing manual effort by 40%
+  - Conducted Exploratory Data Analysis on 20,000+ data points, deriving insights for business decisions
+  - Used Python for statistical analysis of ad campaigns, designed wireframes in Figma, and built interactive data visualizations and dashboards in Looker Studio, reducing manual effort by 40%.
 
 ## 🚀 Projects
 
