@@ -19,6 +19,10 @@
   - Conducted Exploratory Data Analysis on 20,000+ data points, deriving insights for business decisions
   - Used Python for statistical analysis of ad campaigns, designed wireframes in Figma, and built interactive data visualizations and dashboards in Looker Studio, reducing manual effort by 40%.
 
+
+<!--
+
+
 ## 🚀 Projects
 
 ### 🧠 Mental Health and Well-being Surveillance
@@ -66,6 +70,8 @@ real-time booking, tracking, and notifications, streamlining service requests an
 - Implemented a web-based image-processing disease detection model using OpenCV, TensorFlow, and Keras
 with a CNN architecture, integrating HTML, CSS, JavaScript, and Python to assist farmers in early crop
 infection identification.
+
+-->
 
 ## 🛠️ Skills
 
