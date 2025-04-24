@@ -31,7 +31,7 @@
 - Leveraged machine learning algorithms to surpass traditional questionnaires, offering a holistic and adaptive
 evaluation of individuals’ mental well-being with an accuracy of up to 88%.
 
-### 📊 Twitter Sentiment Analysis
+### 📊  Russia-Ukraine War Tweet Sentiment Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154f5b?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
