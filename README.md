@@ -33,10 +33,19 @@ evaluation of individuals’ mental well-being with an accuracy of up to 88%.
 
 ### 📊  Russia-Ukraine War Tweet Sentiment Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f5b?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-- Developed an NLP model to analyze 5,000+ Russia-Ukraine war-related tweets, categorizing sentiment trends
+![Wordcloud](https://img.shields.io/badge/Wordcloud-3776AB?style=flat&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-3776AB?style=flat&logo=python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-3776AB?style=flat&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+- Developed an NLP model to analyze 30,000+ Russia-Ukraine war-related tweets, categorizing sentiment trends
 and identifying patterns in public opinion dynamics.
 
 ### 🚗 Vehicle Service Management System
