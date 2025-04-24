@@ -101,7 +101,7 @@ infection identification.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Unix](https://img.shields.io/badge/Unix-FCC624?style=flat&logo=linux&logoColor=black)
-
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 <!--
 ## 🏆 Awards & Achievements
 - **Certified in Entrepreneurship and Business Strategy** - Recognized as a Potential Real Venture Leader by Wadhwani Group
